@@ -1,4 +1,4 @@
-<p align="center">
-# Diet Recommendation System
+<h1 align="center"> Diet Recommendation System</h1>
+  Diet Recommendation System
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6282289-30ce-4282-901a-4415bd2640fa" width="300" height="200">
